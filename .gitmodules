@@ -1,0 +1,3 @@
+[submodule "JuliaBoxTutorials"]
+	path = JuliaBoxTutorials
+	url = ./JuliaBoxTutorials
